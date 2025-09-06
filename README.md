@@ -16,7 +16,7 @@ Demonstrates **full-stack data skills** recruiters want:
 | Sales Forecasting    | Time series modeling, statistical validation| StatsModels, Matplotlib                |  
 | Automated Reporting  | Stakeholder communication, visualization    | Excel PivotTables, python-pptx         |  
 
-###Key Metrics Delivered
+### Key Metrics Delivered
 
 **Customer Segmentation:**
 - 28,372 customers analyzed using RFM modeling  
