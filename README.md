@@ -1,14 +1,14 @@
-# 📈 Retail Analytics: End-to-End Data Pipeline  
+# Retail Analytics: End-to-End Data Pipeline  
 *SQL + Python + Excel + PowerPoint Integration for Actionable Business Insights*
 
-## 🎯 **Why This Project?**  
+## **Why This Project?**  
 Demonstrates **full-stack data skills** recruiters want:  
-✔ **SQL** for complex queries (CTEs, window functions)  
-✔ **Python** for ETL, forecasting (Pandas, StatsModels)  
-✔ **BI Tools** for stakeholder reporting (Excel, PowerPoint)  
-✔ **Business Impact** with measurable results  
+- **SQL** for complex queries (CTEs, window functions)  
+- **Python** for ETL, forecasting (Pandas, StatsModels)  
+- **BI Tools** for stakeholder reporting (Excel, PowerPoint)  
+- **Business Impact** with measurable results  
 
-### 🛠 **Technical Execution**  
+### **Technical Execution**  
 | **Component**       | **Skills Demonstrated**                      | **Tools Used**                          |  
 |----------------------|---------------------------------------------|----------------------------------------|  
 | Data Extraction      | SQL query optimization, schema design       | SQLite, Pandas                         |  
@@ -16,7 +16,7 @@ Demonstrates **full-stack data skills** recruiters want:
 | Sales Forecasting    | Time series modeling, statistical validation| StatsModels, Matplotlib                |  
 | Automated Reporting  | Stakeholder communication, visualization    | Excel PivotTables, python-pptx         |  
 
-### 📊 Key Metrics Delivered
+###Key Metrics Delivered
 
 **Customer Segmentation:**
 - 28,372 customers analyzed using RFM modeling  
@@ -35,7 +35,7 @@ Demonstrates **full-stack data skills** recruiters want:
 - Inventory optimization saved **$78K in carrying costs**  
 - Targeted Gold segment campaigns drove **22% higher conversion rates**
 
-### 🚀 Project Highlights
+### Project Highlights
 1. SQL Data Pipeline
 ```sql
 -- Optimized query for cohort retention  
